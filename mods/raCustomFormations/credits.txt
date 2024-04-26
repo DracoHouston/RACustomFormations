@@ -1,0 +1,11 @@
+Red Alert, with Custom Formations
+
+Mod by Draco Houston
+
+Inspiration from 'custom formations 2' lua widget in Spring Engine
+
+Credits from the version Zero-K uses:
+"Niobium, modified by Skasi", -- Based on 'Custom Formations' by jK and gunblob
+
+Source file:
+https://github.com/ZeroK-RTS/Zero-K/blob/master/LuaUI/Widgets/cmd_customformations2.lua

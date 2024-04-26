@@ -1,0 +1,14 @@
+^BasePlayer:
+	CustomFormationsModOptions:
+		MoveOrderTileMarkerPalette: mouse
+		MoveOrderTileMarkerImage: cftilemarkers
+		MoveOrderTileMarkerSequence: MoveOrder
+		MoveOrderMarkerPalette: mouse
+		MoveOrderMarkerImage: cfordermarkers
+		MoveOrderMarkerSequence: MoveOrder
+		AttackMoveOrderTileMarkerPalette: mouse
+		AttackMoveOrderTileMarkerImage: cftilemarkers
+		AttackMoveOrderTileMarkerSequence: AttackMoveOrder
+		AttackMoveOrderMarkerPalette: mouse
+		AttackMoveOrderMarkerImage: cfattackmoveordermarkers
+		AttackMoveOrderMarkerSequence: AttackMoveOrder

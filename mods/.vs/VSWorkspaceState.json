@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\example",
+    "\\example\\sequences",
+    "\\example\\sequences\\assets",
+    "\\raCustomFormations",
+    "\\raCustomFormations\\chrome",
+    "\\raCustomFormations\\rules",
+    "\\raCustomFormations\\sequences",
+    "\\tsCustomFormations",
+    "\\tsCustomFormations\\chrome",
+    "\\tsCustomFormations\\rules",
+    "\\tsCustomFormations\\sequences"
+  ],
+  "SelectedNode": "\\raCustomFormations\\rules\\player.yaml",
+  "PreviewInSolutionExplorer": false
+}

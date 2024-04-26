@@ -1,0 +1,14 @@
+^BasePlayer:
+	CustomFormationsModOptions:
+		MoveOrderTileMarkerPalette: effect
+		MoveOrderMarkerPalette: effect
+		AttackMoveOrderTileMarkerPalette: effect
+		AttackMoveOrderMarkerPalette: effect
+		MoveOrderTileMarkerImage: cftilemarkers
+		MoveOrderTileMarkerSequence: MoveOrder
+		MoveOrderMarkerImage: cfordermarkers
+		MoveOrderMarkerSequence: MoveOrder
+		AttackMoveOrderTileMarkerImage: cftilemarkers
+		AttackMoveOrderTileMarkerSequence: AttackMoveOrder
+		AttackMoveOrderMarkerImage: cfordermarkers
+		AttackMoveOrderMarkerSequence: AttackMoveOrder

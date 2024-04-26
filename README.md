@@ -1,3 +1,17 @@
+Red Alert 1 with Custom Formations
+
+This mod adds painted line orders for ground orders, and a dragged circle orders for actor orders.
+
+Work in progress, line orders are fairly feature complete and bug free. Circle orders need a little more work for filtering targets and orders.
+
+Planning repeating queues and immediate queueing.
+
+For ORA modders and developers:
+
+The binary isn't really tied to Red Alert, but my provided tile marker sprites are tied to red alert's temperat.pal. I plan to replace the sprites with more portable ones. See the player trait for display options. It has been tested with tibdawn and tibsun and should provide the same functionality across games. You are more than welcome to use it.
+
+Original Readme:
+
 This repository contains a bare development environment for creating a new mod/game on the [OpenRA](https://github.com/OpenRA/OpenRA) engine.
 
 These scripts and support files wrap and automatically manage a copy of the OpenRA game engine and common files during development, and generates Windows installers, macOS .app bundles, and Linux [AppImages](https://appimage.org/) for distribution.

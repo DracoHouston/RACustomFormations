@@ -1,0 +1,34 @@
+^BasePlayer:
+	CustomFormationsModOptions:
+		MoveOrderTileMarkerPalette: player-noshadow
+		MoveOrderTileMarkerImage: cftilemarkers
+		MoveOrderTileMarkerSequence: MoveOrder
+		PlaysMoveOrderTileMarkerAnimation: false
+		MoveOrderMarkerPalette: player-noshadow
+		MoveOrderMarkerImage: cfordermarkers
+		MoveOrderMarkerSequence: MoveOrder
+		PlaysMoveOrderMarkerAnimation: true
+		AttackMoveOrderTileMarkerPalette: player-noshadow
+		AttackMoveOrderTileMarkerImage: cftilemarkers
+		AttackMoveOrderTileMarkerSequence: AttackMoveOrder
+		PlaysAttackMoveOrderTileMarkerAnimation: false
+		AttackMoveOrderMarkerPalette: player-noshadow
+		AttackMoveOrderMarkerImage: cfamoveordermarkers
+		AttackMoveOrderMarkerSequence: AttackMoveOrder
+		PlaysAttackMoveOrderMarkerAnimation: true
+		AssaultMoveOrderTileMarkerPalette: player-noshadow
+		AssaultMoveOrderTileMarkerImage: cftilemarkers
+		AssaultMoveOrderTileMarkerSequence: AssaultMoveOrder
+		PlaysAssaultMoveOrderTileMarkerAnimation: false
+		AssaultMoveOrderMarkerPalette: player-noshadow
+		AssaultMoveOrderMarkerImage: cfamoveordermarkers
+		AssaultMoveOrderMarkerSequence: AssaultMoveOrder
+		PlaysAssaultMoveOrderMarkerAnimation: true
+		ForceFireOrderTileMarkerPalette: player-noshadow
+		ForceFireOrderTileMarkerImage: cftilemarkers
+		ForceFireOrderTileMarkerSequence: ForceFireOrder
+		PlaysForceFireOrderTileMarkerAnimation: false
+		ForceFireOrderMarkerPalette: player-noshadow
+		ForceFireOrderMarkerImage: cfordermarkers
+		ForceFireOrderMarkerSequence: ForceFireOrder
+		PlaysForceFireOrderMarkerAnimation: true

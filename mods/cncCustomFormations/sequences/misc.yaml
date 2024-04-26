@@ -1,0 +1,20 @@
+cftilemarkers:
+	Defaults:
+		Filename: cftilemarkers.shp
+	AttackMoveOrder:
+		Start: 0
+	MoveOrder:
+		Start: 1
+
+cfordermarkers:
+	Defaults:
+		Filename: mouse4.shp
+	MoveOrder:
+		Start: 0
+		Length: 8
+	AttackMoveOrder:
+		Start: 12
+		Length: 8
+	AssaultMoveOrder:
+		Start: 24
+		Length: 8
