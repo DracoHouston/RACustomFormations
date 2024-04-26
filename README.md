@@ -6,6 +6,9 @@ Work in progress, line orders are fairly feature complete and bug free. Circle o
 
 Planning repeating queues and immediate queueing.
 
+Note on compiling:
+The AttackMove trait in OpenRA.Mods.Common isn't public, but needs to be for this to work. Simply change the declarations of AttackMove and AttackMoveInfo to be Public Sealed instead of just Sealed.
+
 For ORA modders and developers:
 
 The binary isn't really tied to Red Alert, but my provided tile marker sprites are tied to red alert's temperat.pal. I plan to replace the sprites with more portable ones. See the player trait for display options. It has been tested with tibdawn and tibsun and should provide the same functionality across games. You are more than welcome to use it.
